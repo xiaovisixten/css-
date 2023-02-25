@@ -481,13 +481,21 @@
 
 ![target](C:\Users\Administrator\Desktop\截图\css选择器\链接伪类\target.png)
 
-*点击lable标签时 div样式动态产生变化*
+*点击a标签时 div样式动态产生变化*
 
 ![target-1](C:\Users\Administrator\Desktop\截图\css选择器\链接伪类\target-1.png)
 
 #### 结构伪类
 
+*E:first-child 可以选择父元素下面第一个E元素*
+
 #### 表单伪类
 
 #### 字符伪类
+
+
+
+
+
+
 
